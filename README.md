@@ -6,4 +6,4 @@ Please download the book from here :
 
 THe ultimate Python handbook : 
 
- file:///C:/Users/Vishwas/Desktop/The%20Ultimate%20Python%20Handbook.pdf
+ 
